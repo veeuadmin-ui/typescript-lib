@@ -1,5 +1,5 @@
 import argon2 from 'argon2';
-import { SessionData } from './types';
+import type { SessionData } from './types';
 
 // ================== //
 // Password Utilities //
